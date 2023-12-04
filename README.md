@@ -1,5 +1,29 @@
-## MLP-OtherCharacters
+# MLP-OtherCharacters
 From the My Little Pony Fandom: For other characters that only exists in books and comics.
+
+Sorry, everthing's unoredered
+
+- Race
+- Traditions & Culture
+- Location
+- Characters
+
+## 1st Aquastria
+![1st Aquastria](https://i.pinimg.com/474x/26/e2/e6/26e2e6ab29ff057381424320126a00c1.jpg)
+![King Leo's Castle](https://64.media.tumblr.com/b913d6d703ea79ed35f1e2b4c6d128e6/ea9f8c3506d67f2d-c7/s500x750/52ec8a88243b3705185ce3c4bb0b4ea4f4ba5662.jpg)
+![Ocean](https://www.americanillustration.org/MuseNews/6-7-2013_My_Little_Pony_Signing_files/jpeg_004.jpg)
+Before the My Little Pony Movie released, 
+
+## Plot: Under the Sparkling Sea
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Xy9LaP4SF8?si=FxNoK8-TypWgBH_R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+k
+
+
+## Caninia
+![Caninia](https://1.bp.blogspot.com/-BgwAyrt56cY/YIjIQap5DBI/AAAAAAAAlUc/2aDqKGniOloqK0s9zOHrMiq5ry13cG7cACLcBGAsYHQ/w416-h640/caninia.png)
+![Mountain Dog]()
+Was a kingdom for the Diamond Dogs, 
 
 
 ### Ambrosia Muffinbuns
@@ -24,3 +48,4 @@ Appeared in:
 [Gameloft](https://mlp-gameloft.fandom.com/wiki/Princess_Ambrosia_Muffinbuns#Character)
 ,
 [IDW](https://mlp.fandom.com/wiki/My_Little_Pony_Annual_2021)
+
