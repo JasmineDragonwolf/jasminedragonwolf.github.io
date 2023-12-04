@@ -1,5 +1,4 @@
 ## MLP-OtherCharacters
-## jasminewolf123.github.io
 From the My Little Pony Fandom: For other characters that only exists in books and comics.
 
 
