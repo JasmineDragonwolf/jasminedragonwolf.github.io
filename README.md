@@ -43,7 +43,7 @@ When Twilight Sparkle receives an invitation to visit the underwater city of Aqu
 ## Characters in Aquastria
 
 ## Arrow
-![Arrow the ](https://static.wikia.nocookie.net/mlp/images/1/11/Arrow_ID_USS.png/revision/latest?cb=20140326210544)
+![Arrow the ](https://github.com/JasmineDragonwolf/jasminedragonwolf.github.io/assets/150984751/16dcc59e-a2bb-43be-a3b8-3ab7bff64917)
 
 He's a , he's part of Aquastria's Royal Guard, and a brother to Coral.
 
