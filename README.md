@@ -116,6 +116,9 @@ Appeared in:
 Grubber is the central focus of the picture book The Great Princess Caper, which retells the plot of the film from his perspective. In the book.
 &nbsp;
 
+---
+
+&nbsp;
 # Cites & Comments
 &nbsp;
 
