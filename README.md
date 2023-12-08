@@ -1,7 +1,6 @@
 # MLP-OtherCharacters
-From the My Little Pony Fandom: For characters that only exists in books and comics.
-
-From the My Little Pony Fandom: For characters that didn't appear much.
+From the My Little Pony Fandom, characters that only exists in books and comics,
+and characters that didn't appear much.
 
 Not much information given to the character
 
@@ -100,7 +99,7 @@ He is a comedic pug-faced hedgehog and also the former servant of the Storm King
 
 Appeared in:
 [My Little Pony: The Movie](),
-[IDW](https://mlp.fandom.com/wiki/My_Little_Pony:_The_Movie_Prequel),
+[IDW](),
 [Gameloft](https://mlp-gameloft.fandom.com/wiki/Grubber),
 &nbsp;
 
